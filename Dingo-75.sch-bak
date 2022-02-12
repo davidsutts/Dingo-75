@@ -3238,9 +3238,9 @@ Text GLabel 13750 4450 0    50   Input ~ 0
 Row4
 Text GLabel 13750 4550 0    50   Input ~ 0
 Row5
-Text GLabel 13750 4650 0    50   Input ~ 0
-Col13
 Text GLabel 13750 4750 0    50   Input ~ 0
+Col13
+Text GLabel 14950 1350 2    50   Input ~ 0
 Col12
 Wire Wire Line
 	4900 6250 4700 6250
@@ -3294,21 +3294,21 @@ Wire Wire Line
 Connection ~ 6950 6500
 Wire Wire Line
 	6950 6250 7150 6250
-Text GLabel 14950 1350 2    50   Input ~ 0
-Col11
 Text GLabel 14950 1450 2    50   Input ~ 0
-Col10
+Col11
 Text GLabel 14950 1550 2    50   Input ~ 0
-Col9
+Col10
 Text GLabel 14950 1650 2    50   Input ~ 0
-Col8
+Col9
 Text GLabel 14950 1750 2    50   Input ~ 0
-Col7
+Col8
 Text GLabel 14950 1850 2    50   Input ~ 0
-Col6
+Col7
 Text GLabel 14950 1950 2    50   Input ~ 0
-Col5
+Col6
 Text GLabel 14950 2050 2    50   Input ~ 0
+Col5
+Text GLabel 14950 3850 2    50   Input ~ 0
 Col4
 Wire Wire Line
 	8150 3400 8150 3900
@@ -3346,4 +3346,14 @@ Wire Wire Line
 Connection ~ 3600 4250
 Text GLabel 10150 3150 1    50   Input ~ 0
 Col14
+Text GLabel 13750 4650 0    50   Input ~ 0
+Col14
+Text GLabel 14950 3750 2    50   Input ~ 0
+Col3
+Text GLabel 14950 3650 2    50   Input ~ 0
+Col2
+Text GLabel 14950 3550 2    50   Input ~ 0
+Col1
+Text GLabel 14950 3450 2    50   Input ~ 0
+Col0
 $EndSCHEMATC

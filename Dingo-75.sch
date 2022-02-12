@@ -3356,4 +3356,48 @@ Text GLabel 14950 3550 2    50   Input ~ 0
 Col1
 Text GLabel 14950 3450 2    50   Input ~ 0
 Col0
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 62445CA7
+P 4250 1150
+F 0 "H1" H 4350 1196 50  0000 L CNN
+F 1 "MountingHole" H 4350 1105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 4250 1150 50  0001 C CNN
+F 3 "~" H 4250 1150 50  0001 C CNN
+	1    4250 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 6244608A
+P 4250 1400
+F 0 "H2" H 4350 1446 50  0000 L CNN
+F 1 "MountingHole" H 4350 1355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 4250 1400 50  0001 C CNN
+F 3 "~" H 4250 1400 50  0001 C CNN
+	1    4250 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 6244620D
+P 4950 1400
+F 0 "H4" H 5050 1446 50  0000 L CNN
+F 1 "MountingHole" H 5050 1355 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 4950 1400 50  0001 C CNN
+F 3 "~" H 4950 1400 50  0001 C CNN
+	1    4950 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 624463DA
+P 4950 1150
+F 0 "H3" H 5050 1196 50  0000 L CNN
+F 1 "MountingHole" H 5050 1105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 4950 1150 50  0001 C CNN
+F 3 "~" H 4950 1150 50  0001 C CNN
+	1    4950 1150
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
